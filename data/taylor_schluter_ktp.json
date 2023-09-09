@@ -1,0 +1,155 @@
+{
+    "mentor": "Mathew Cosgrove",
+    "mentee": "Taylor Schluter",
+    "vision": "Taylor aims to become an expert in Model Based Systems Engineering (MBSE) with a specialization in the Cameo tool, enabling him to lead and contribute to complex systems engineering projects.",
+    "mentoring_goals": [
+        {
+            "name": "MBSE Fundamentals",
+            "objective": "Gain a comprehensive understanding of MBSE principles and methodologies.",
+            "primary_support_person": "Mathew Cosgrove",
+            "activities": [
+                {
+                    "name": "Enroll in an introductory MBSE course",
+                    "competency": "MBSE Basics",
+                    "beginning_date": "9/1/2023",
+                    "ending_date": "10/15/2023",
+                    "status": "Pending",
+                    "resources": [
+                        "MBSE Online Course"
+                    ],
+                    "feedback_mechanism": "Monthly check-ins with mentor",
+                    "performance_metrics": "Score at least 85% in the final MBSE course assessment."
+                },
+                {
+                    "name": "Discuss real-world applications of MBSE with mentor",
+                    "competency": "Practical Application",
+                    "beginning_date": "10/16/2023",
+                    "ending_date": "11/15/2023",
+                    "status": "Pending",
+                    "resources": [
+                        "MBSE Case Studies Book"
+                    ],
+                    "feedback_mechanism": "Monthly check-ins with mentor",
+                    "performance_metrics": "Present a detailed report on a real-world MBSE application discussed with the mentor."
+                },
+                {
+                    "name": "Review case studies of successful MBSE projects",
+                    "competency": "Analytical Skills",
+                    "beginning_date": "11/16/2023",
+                    "ending_date": "12/31/2023",
+                    "status": "Pending",
+                    "resources": [
+                        "MBSE Case Studies Journal"
+                    ],
+                    "feedback_mechanism": "Monthly check-ins with mentor",
+                    "performance_metrics": "Present a comprehensive analysis of at least three MBSE case studies."
+                }
+            ]
+        },
+        {
+            "name": "Proficiency in Cameo",
+            "objective": "Master the functionalities and applications of the Cameo tool in MBSE.",
+            "primary_support_person": "Mathew Cosgrove",
+            "activities": [
+                {
+                    "name": "Attend a Cameo training workshop",
+                    "competency": "Cameo Basics",
+                    "beginning_date": "1/1/2024",
+                    "ending_date": "2/15/2024",
+                    "status": "Pending",
+                    "resources": [
+                        "Cameo Official Training Workshop"
+                    ],
+                    "feedback_mechanism": "Monthly check-ins with mentor",
+                    "performance_metrics": "Complete the workshop and demonstrate the ability to create a basic system model using Cameo."
+                },
+                {
+                    "name": "Work on a mock project using Cameo under mentor's guidance",
+                    "competency": "Cameo Application",
+                    "beginning_date": "2/16/2024",
+                    "ending_date": "4/30/2024",
+                    "status": "Pending",
+                    "resources": [
+                        "Cameo Software License"
+                    ],
+                    "feedback_mechanism": "Monthly check-ins with mentor",
+                    "performance_metrics": "Successfully design and simulate a system model using Cameo, with mentor's approval."
+                },
+                {
+                    "name": "Analyze a pre-existing system model in Cameo",
+                    "competency": "Troubleshooting",
+                    "beginning_date": "5/1/2024",
+                    "ending_date": "6/15/2024",
+                    "status": "Pending",
+                    "resources": [
+                        "Sample Cameo System Models"
+                    ],
+                    "feedback_mechanism": "Monthly check-ins with mentor",
+                    "performance_metrics": "Identify and rectify at least three issues in a pre-existing system model using Cameo."
+                }
+            ]
+        },
+        {
+            "name": "Integration and Advanced Applications",
+            "objective": "Understand the integration of Cameo with other engineering tools and platforms.",
+            "primary_support_person": "Mathew Cosgrove",
+            "activities": [
+                {
+                    "name": "Study the integration of Cameo with other tools (e.g., MATLAB, Simulink)",
+                    "competency": "Tool Integration",
+                    "beginning_date": "6/16/2024",
+                    "ending_date": "7/31/2024",
+                    "status": "Pending",
+                    "resources": [
+                        "MATLAB and Simulink Integration Guide for Cameo"
+                    ],
+                    "feedback_mechanism": "Monthly check-ins with mentor",
+                    "performance_metrics": "Demonstrate a successful integration of Cameo with MATLAB or Simulink in a sample project."
+                },
+                {
+                    "name": "Participate in a complex project involving Cameo",
+                    "competency": "Advanced Application",
+                    "beginning_date": "8/1/2024",
+                    "ending_date": "9/15/2024",
+                    "status": "Pending",
+                    "resources": [
+                        "Advanced Cameo Project Templates"
+                    ],
+                    "feedback_mechanism": "Monthly check-ins with mentor",
+                    "performance_metrics": "Contribute significantly to a complex project, showcasing advanced Cameo functionalities."
+                },
+                {
+                    "name": "Regularly discuss challenges and solutions with mentor",
+                    "competency": "Problem-solving",
+                    "beginning_date": "9/16/2024",
+                    "ending_date": "10/31/2024",
+                    "status": "Pending",
+                    "resources": [
+                        "Mentor's Experience and Case Studies"
+                    ],
+                    "feedback_mechanism": "Monthly check-ins with mentor",
+                    "performance_metrics": "Document and resolve at least five challenges faced during the mentoring period, with mentor's guidance."
+                }
+            ]
+        }
+    ],
+    "networking_opportunities": [],
+    "potential_challenges": [
+        {
+            "challenge": "Keeping up with rapidly evolving MBSE trends and Cameo tool updates.",
+            "solution": "Regularly attend MBSE and Cameo workshops, webinars, and subscribe to relevant industry journals."
+        },
+        {
+            "challenge": "Balancing hands-on technical work with the theoretical study of MBSE and Cameo.",
+            "solution": "Allocate specific days or time blocks for theoretical study and hands-on work. Use tools like Trello or Asana for time management."
+        },
+        {
+            "challenge": "Effective collaboration with other departments and understanding interdisciplinary project requirements in the context of MBSE and Cameo.",
+            "solution": "Schedule regular inter-departmental meetings and workshops. Use collaboration tools like Slack or Microsoft Teams for effective communication."
+        },
+        {
+            "challenge": "Maintaining consistent improvement in MBSE and Cameo skills while engaging in other technical tasks.",
+            "solution": "Practice regularly, attend refresher courses, and seek feedback after project completions."
+        }
+    ]
+}

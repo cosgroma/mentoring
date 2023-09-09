@@ -1,0 +1,75 @@
+{
+    "mentor": "Mathew Cosgrove",
+    "mentee": "Juan Magpantay",
+    "vision": "Juan aspires to be a leading expert in embedded systems design principles with a specialization in SatNav/GNSS SDR architecture.",
+    "mentoring_goals": [
+        {
+            "name": "Embedded Systems Design Principles",
+            "objective": "Gain a comprehensive understanding of best embedded systems design principles.",
+            "primary_support_person": "Mathew Cosgrove",
+            "activities": [
+                {
+                    "name": "Attend a workshop on advanced embedded systems design.",
+                    "competency": "Technical Knowledge",
+                    "beginning_date": "10/1/2023",
+                    "ending_date": "11/15/2023",
+                    "status": "Pending",
+                    "resources": [
+                        "Workshop Materials",
+                        "Embedded Systems Design Books"
+                    ],
+                    "feedback_mechanism": "Discussion with mentor post-workshop",
+                    "performance_metrics": "Demonstrate understanding of advanced embedded systems design principles."
+                },
+                {
+                    "name": "Review and analyze three recent embedded system projects to understand design choices and challenges.",
+                    "competency": "Practical Application",
+                    "beginning_date": "11/16/2023",
+                    "ending_date": "1/15/2024",
+                    "status": "Created",
+                    "resources": [
+                        "Project Reports",
+                        "Design Documents"
+                    ],
+                    "feedback_mechanism": "Presentation to mentor on findings",
+                    "performance_metrics": "Successfully analyze and present insights from the reviewed projects."
+                }
+            ]
+        },
+        {
+            "name": "SatNav/GNSS SDR Architecture",
+            "objective": "Acquire in-depth knowledge of SatNav/GNSS SDR architecture.",
+            "primary_support_person": "Mathew Cosgrove",
+            "activities": [
+                {
+                    "name": "Attend a seminar or webinar on SatNav/GNSS SDR architecture.",
+                    "competency": "Technical Knowledge",
+                    "beginning_date": "1/16/2024",
+                    "ending_date": "2/28/2024",
+                    "status": "Pending",
+                    "resources": [
+                        "Seminar/Webinar Materials",
+                        "SatNav/GNSS SDR Books"
+                    ],
+                    "feedback_mechanism": "Discussion with mentor post-seminar",
+                    "performance_metrics": "Demonstrate understanding of SatNav/GNSS SDR architecture concepts."
+                },
+                {
+                    "name": "Work on a hands-on project to design a basic SatNav/GNSS SDR system.",
+                    "competency": "Practical Application",
+                    "beginning_date": "3/1/2024",
+                    "ending_date": "5/15/2024",
+                    "status": "Created",
+                    "resources": [
+                        "SDR Development Kits",
+                        "SatNav/GNSS SDR Software"
+                    ],
+                    "feedback_mechanism": "Project review with mentor",
+                    "performance_metrics": "Successfully design and implement a basic SatNav/GNSS SDR system."
+                }
+            ]
+        }
+    ],
+    "networking_opportunities": [],
+    "potential_challenges": []
+}

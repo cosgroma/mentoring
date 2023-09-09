@@ -1,0 +1,37 @@
+{
+    "mentor": "",
+    "mentee": "",
+    "vision": "",
+    "mentoring_goals": [
+        {
+            "name": "",
+            "objective": "",
+            "primary_support_person": "",
+            "activities": [
+                {
+                    "name": "",
+                    "competency": "",
+                    "beginning_date": "",
+                    "ending_date": "",
+                    "status": "",
+                    "resources": [
+                        {
+                            "name": "",
+                            "link": "",
+                            "notes": ""
+                        }
+                    ],
+                    "feedback_mechanism": "",
+                    "performance_metrics": ""
+                }
+            ]
+        }
+    ],
+    "networking_opportunities": [],
+    "potential_challenges": [
+        {
+            "challenge": "",
+            "solution": ""
+        }
+    ]
+}

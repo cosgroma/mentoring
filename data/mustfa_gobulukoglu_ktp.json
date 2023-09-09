@@ -1,0 +1,138 @@
+{
+    "mentor": "Mathew Cosgrove",
+    "mentee": "Mustafa Gobulukoglu",
+    "vision": "To empower Mustafa with a comprehensive understanding of embedded systems design principles and SatNav/GNSS SDR architecture, enabling him to contribute effectively to related projects and innovations.",
+    "mentoring_goals": [
+        {
+            "name": "Embedded Systems Design Principles",
+            "objective": "Gain a comprehensive understanding of embedded systems design principles.",
+            "primary_support_person": "Mathew Cosgrove",
+            "activities": [
+                {
+                    "name": "Review foundational literature on embedded systems design.",
+                    "competency": "Technical Knowledge",
+                    "beginning_date": "10/1/2023",
+                    "ending_date": "11/15/2023",
+                    "status": "Pending",
+                    "resources": [
+                        "Embedded Systems Design Books"
+                    ],
+                    "feedback_mechanism": "Weekly discussions with mentor",
+                    "performance_metrics": "Summarize and present key concepts from the literature."
+                },
+                {
+                    "name": "Hands-on project to design a simple embedded system.",
+                    "competency": "Practical Application",
+                    "beginning_date": "11/16/2023",
+                    "ending_date": "1/15/2024",
+                    "status": "Pending",
+                    "resources": [
+                        "Embedded Systems Development Kit"
+                    ],
+                    "feedback_mechanism": "Bi-weekly project reviews with mentor",
+                    "performance_metrics": "Successfully design and demonstrate a functional embedded system."
+                },
+                {
+                    "name": "Regular discussions and Q&A sessions.",
+                    "competency": "Communication & Understanding",
+                    "beginning_date": "1/16/2024",
+                    "ending_date": "2/28/2024",
+                    "status": "Pending",
+                    "resources": [
+                        "Mentor's Experience"
+                    ],
+                    "feedback_mechanism": "Weekly Q&A sessions",
+                    "performance_metrics": "Actively participate and clarify doubts in each session."
+                }
+            ]
+        },
+        {
+            "name": "SatNav/GNSS SDR Architecture",
+            "objective": "Acquire in-depth knowledge of SatNav/GNSS SDR architecture.",
+            "primary_support_person": "Mathew Cosgrove",
+            "activities": [
+                {
+                    "name": "Introduction to SatNav/GNSS SDR architecture concepts.",
+                    "competency": "Technical Knowledge",
+                    "beginning_date": "3/1/2024",
+                    "ending_date": "4/15/2024",
+                    "status": "Pending",
+                    "resources": [
+                        "SatNav/GNSS SDR Architecture Books"
+                    ],
+                    "feedback_mechanism": "Weekly discussions with mentor",
+                    "performance_metrics": "Summarize and present key concepts related to SatNav/GNSS SDR architecture."
+                },
+                {
+                    "name": "Analyze existing SatNav/GNSS SDR systems.",
+                    "competency": "Analysis & Critical Thinking",
+                    "beginning_date": "4/16/2024",
+                    "ending_date": "6/15/2024",
+                    "status": "Pending",
+                    "resources": [
+                        "Existing SatNav/GNSS SDR Systems"
+                    ],
+                    "feedback_mechanism": "Bi-weekly analysis reviews with mentor",
+                    "performance_metrics": "Present a detailed analysis of at least two existing SatNav/GNSS SDR systems."
+                },
+                {
+                    "name": "Design a basic SatNav/GNSS SDR module.",
+                    "competency": "Practical Application",
+                    "beginning_date": "6/16/2024",
+                    "ending_date": "8/15/2024",
+                    "status": "Pending",
+                    "resources": [
+                        "SatNav/GNSS SDR Development Kit"
+                    ],
+                    "feedback_mechanism": "Weekly project reviews with mentor",
+                    "performance_metrics": "Successfully design and demonstrate a functional SatNav/GNSS SDR module."
+                }
+            ]
+        },
+        {
+            "name": "Application and Real-world Scenarios",
+            "objective": "Apply the acquired knowledge in real-world projects and scenarios.",
+            "primary_support_person": "Mathew Cosgrove",
+            "activities": [
+                {
+                    "name": "Work on a real-world project involving embedded systems.",
+                    "competency": "Practical Application",
+                    "beginning_date": "8/16/2024",
+                    "ending_date": "9/30/2024",
+                    "status": "Pending",
+                    "resources": [
+                        "Real-world Embedded Systems Project"
+                    ],
+                    "feedback_mechanism": "Bi-weekly project reviews with mentor",
+                    "performance_metrics": "Contribute significantly and demonstrate the application of learned concepts in the project."
+                },
+                {
+                    "name": "Attend seminars or workshops on advanced embedded systems topics.",
+                    "competency": "Continuous Learning",
+                    "beginning_date": "10/1/2024",
+                    "ending_date": "10/31/2024",
+                    "status": "Pending",
+                    "resources": [
+                        "Embedded Systems Workshops"
+                    ],
+                    "feedback_mechanism": "Post-workshop discussions with mentor",
+                    "performance_metrics": "Present key takeaways from the attended seminars or workshops."
+                },
+                {
+                    "name": "Regular feedback and review sessions.",
+                    "competency": "Communication & Feedback",
+                    "beginning_date": "11/1/2024",
+                    "ending_date": "12/15/2024",
+                    "status": "Pending",
+                    "resources": [
+                        "Mentor's Feedback"
+                    ],
+                    "feedback_mechanism": "Weekly feedback sessions",
+                    "performance_metrics": "Actively engage in feedback sessions and demonstrate continuous improvement."
+                }
+            ]
+        }
+    ],
+    "networking_opportunities": [],
+    "potential_challenges": []
+}

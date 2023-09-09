@@ -1,0 +1,319 @@
+{
+  "mentor": "Mathew Cosgrove",
+  "mentee": "Sahana Santhanakrishnan",
+  "vision": "Sahana aims to become a proficient expert in Software Architecture and Systems Engineering, capable of leading projects and contributing significantly to the organization's technical advancements.",
+  "mentoring_goals": [
+    {
+      "name": "Software Architecture Mastery",
+      "objective": "To gain a comprehensive understanding of Software Architecture principles and best practices.",
+      "primary_support_person": "Mathew Cosgrove",
+      "activities": [
+        {
+          "name": "Study Software Architecture Patterns",
+          "competency": "Software Architecture",
+          "beginning_date": "10/1/2023",
+          "ending_date": "9/30/2023",
+          "status": "Created",
+          "resources": [
+            {
+              "name": "Design Patterns: Elements of Reusable Object-Oriented Software",
+              "link": "https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612",
+              "notes": "A foundational book on software design patterns."
+            }
+          ],
+          "feedback_mechanism": "Monthly check-ins with mentor",
+          "performance_metrics": "Successfully design a software architecture for a given problem statement."
+        },
+        {
+          "name": "Review and analyze three renowned software architectures",
+          "competency": "Software Architecture",
+          "beginning_date": "10/1/2023",
+          "ending_date": "9/30/2023",
+          "status": "Created",
+          "resources": [
+            {
+              "name": "The Architecture of Open Source Applications",
+              "link": "http://aosabook.org/en/index.html",
+              "notes": "A collection of essays on the architecture of popular open source applications."
+            }
+          ],
+          "feedback_mechanism": "Monthly check-ins with mentor",
+          "performance_metrics": "Analyze and present findings on three different software architectures."
+        },
+        {
+          "name": "Regular discussions on architectural decisions in ongoing projects",
+          "competency": "Software Architecture",
+          "beginning_date": "10/1/2023",
+          "ending_date": "4/30/2024",
+          "status": "Created",
+          "resources": [],
+          "feedback_mechanism": "Monthly check-ins with mentor",
+          "performance_metrics": "Participate in at least four project discussions and provide valuable architectural insights."
+        },
+        {
+          "name": "Complete online courses on relevant technologies.",
+          "competency": "Technical Knowledge",
+          "beginning_date": "10/1/2023",
+          "ending_date": "8/30/2024",
+          "status": "Created",
+          "resources": [
+            {
+              "name": "Coursera",
+              "link": "https://www.coursera.org/"
+            }
+          ],
+          "feedback_mechanism": "Monthly check-ins with mentor",
+          "performance_metrics": "Complete at least two online courses and demonstrate knowledge in discussions."
+        },
+        {
+          "name": "Engage in hands-on projects using platforms like GitHub.",
+          "competency": "Technical Application",
+          "beginning_date": "10/1/2023",
+          "ending_date": "1/31/2024",
+          "status": "Created",
+          "resources": [
+            {
+              "name": "GitHub",
+              "link": "https://github.com/"
+            }
+          ],
+          "feedback_mechanism": "Monthly check-ins with mentor",
+          "performance_metrics": "Contribute to at least one open-source project or initiate a new project."
+        },
+        {
+          "name": "Study open-source projects to understand best practices.",
+          "competency": "Technical Analysis",
+          "beginning_date": "2/1/2024",
+          "ending_date": "2/28/2024",
+          "status": "Created",
+          "resources": [
+            {
+              "name": "GitHub Explore",
+              "link": "https://github.com/explore"
+            }
+          ],
+          "feedback_mechanism": "Monthly check-ins with mentor",
+          "performance_metrics": "Analyze and present findings on best practices from three open-source projects."
+        },
+        {
+          "name": "Engage in online challenges or hackathons.",
+          "competency": "Technical Adaptability",
+          "beginning_date": "3/1/2024",
+          "ending_date": "3/31/2024",
+          "status": "Created",
+          "resources": [
+            {
+              "name": "Hackerrank",
+              "link": "https://www.hackerrank.com/"
+            }
+          ],
+          "feedback_mechanism": "Monthly check-ins with mentor",
+          "performance_metrics": "Participate in at least two challenges or one hackathon."
+        },
+        {
+          "name": "Watch webinars or tech talks on emerging technologies in the defense sector.",
+          "competency": "Technical Awareness",
+          "beginning_date": "4/1/2024",
+          "ending_date": "4/30/2024",
+          "status": "Created",
+          "resources": [],
+          "feedback_mechanism": "Monthly check-ins with mentor",
+          "performance_metrics": "Attend at least three webinars or tech talks and share insights with the team."
+        },
+        {
+          "name": "Collaborate on open-source projects.",
+          "competency": "Collaboration",
+          "beginning_date": "5/1/2024",
+          "ending_date": "5/31/2024",
+          "status": "Created",
+          "resources": [],
+          "feedback_mechanism": "Monthly check-ins with mentor",
+          "performance_metrics": "Collaborate on at least one open-source project and contribute significantly."
+        },
+        {
+          "name": "Engage in online forums or communities related to defense research.",
+          "competency": "Networking",
+          "beginning_date": "6/1/2024",
+          "ending_date": "6/30/2024",
+          "status": "Created",
+          "resources": [],
+          "feedback_mechanism": "Monthly check-ins with mentor",
+          "performance_metrics": "Actively participate in discussions and establish connections with at least five professionals in the field."
+        },
+        {
+          "name": "Solve problems on platforms like Hackerrank or LeetCode.",
+          "competency": "Analytical Thinking",
+          "beginning_date": "7/1/2024",
+          "ending_date": "7/31/2024",
+          "status": "Created",
+          "resources": [],
+          "feedback_mechanism": "Monthly check-ins with mentor",
+          "performance_metrics": "Solve at least 20 problems of varying difficulty."
+        },
+        {
+          "name": "Engage in online brainstorming sessions or discussions.",
+          "competency": "Problem Solving",
+          "beginning_date": "10/1/2023",
+          "ending_date": "8/31/2024",
+          "status": "Created",
+          "resources": [],
+          "feedback_mechanism": "Monthly check-ins with mentor",
+          "performance_metrics": "Participate in at least two brainstorming sessions and provide valuable input."
+        },
+        {
+          "name": "Write blog posts or articles on platforms like Medium.",
+          "competency": "Technical Writing",
+          "beginning_date": "1/1/2024",
+          "ending_date": "8/31/2024",
+          "status": "Created",
+          "resources": [
+            {
+              "name": "Medium",
+              "link": "https://medium.com/"
+            }
+          ],
+          "feedback_mechanism": "Monthly check-ins with mentor",
+          "performance_metrics": "Publish at least two articles on relevant topics."
+        },
+        {
+          "name": "Engage in online group discussions or debates on platforms like Reddit.",
+          "competency": "Verbal Communication",
+          "beginning_date": "10/1/2023",
+          "ending_date": "10/31/2024",
+          "status": "Created",
+          "resources": [
+            {
+              "name": "Reddit",
+              "link": "https://www.reddit.com/"
+            }
+          ],
+          "feedback_mechanism": "Monthly check-ins with mentor",
+          "performance_metrics": "Actively participate in at least five discussions or debates."
+        },
+        {
+          "name": "Study online materials on defense protocols and standards.",
+          "competency": "Defense Knowledge",
+          "beginning_date": "10/1/2023",
+          "ending_date": "12/30/2023",
+          "status": "Created",
+          "resources": [],
+          "feedback_mechanism": "Monthly check-ins with mentor",
+          "performance_metrics": "Demonstrate understanding of key defense protocols and standards in discussions."
+        },
+        {
+          "name": "Engage in discussions on defense-focused forums or communities.",
+          "competency": "Defense Networking",
+          "beginning_date": "10/1/2023",
+          "ending_date": "8/31/2024",
+          "status": "Created",
+          "resources": [],
+          "feedback_mechanism": "Monthly check-ins with mentor",
+          "performance_metrics": "Establish connections with at least three professionals in defense-focused forums."
+        }
+      ]
+    },
+    {
+      "name": "Systems Engineering Mastery",
+      "objective": "To delve deep into Systems Engineering methodologies and their applications in real-world scenarios.",
+      "primary_support_person": "Mathew Cosgrove",
+      "activities": [
+        {
+          "name": "Understand Systems Engineering Lifecycle",
+          "competency": "Systems Engineering",
+          "beginning_date": "10/1/2023",
+          "ending_date": "11/30/2023",
+          "status": "Created",
+          "resources": [
+            {
+              "name": "INCOSE Systems Engineering Handbook",
+              "link": "https://www.incose.org/products-and-publications/se-handbook",
+              "notes": "A guide to the SE process and its application."
+            }
+          ],
+          "feedback_mechanism": "Bi-weekly quizzes on Systems Engineering concepts",
+          "performance_metrics": "Demonstrate understanding of the systems engineering lifecycle in discussions and quizzes."
+        },
+        {
+          "name": "Study Systems Engineering Principles",
+          "competency": "Systems Engineering",
+          "beginning_date": "12/1/2023",
+          "ending_date": "1/31/2024",
+          "status": "Created",
+          "resources": [
+            {
+              "name": "Systems Engineering Principles and Practice",
+              "link": "https://www.wiley.com/en-us/Systems+Engineering+Principles+and+Practice%2C+2nd+Edition-p-9780470405482",
+              "notes": "A comprehensive book on Systems Engineering principles."
+            }
+          ],
+          "feedback_mechanism": "Monthly check-ins with mentor",
+          "performance_metrics": "Apply learned principles in discussions and practical scenarios."
+        },
+        {
+          "name": "Work on a live project to understand system requirements and design",
+          "competency": "Systems Engineering",
+          "beginning_date": "2/1/2024",
+          "ending_date": "9/30/2024",
+          "status": "Created",
+          "resources": [],
+          "feedback_mechanism": "Monthly check-ins with mentor",
+          "performance_metrics": "Successfully gather, analyze, and document system requirements for a live project. Design a system based on the gathered requirements."
+        }
+      ]
+    },
+    {
+      "name": "Collaboration and Communication",
+      "objective": "To foster collaboration and communication skills, essential for leading technical teams.",
+      "primary_support_person": "Mathew Cosgrove",
+      "activities": [
+        {
+          "name": "Participate in team meetings and present technical topics",
+          "competency": "Soft Skills",
+          "beginning_date": "10/1/2023",
+          "ending_date": "11/30/2023",
+          "status": "Created",
+          "resources": [],
+          "feedback_mechanism": "Feedback from peers and mentor after team meetings",
+          "performance_metrics": "Successfully present at least two technical topics in team meetings and demonstrate improved communication in team settings."
+        },
+        {
+          "name": "Collaborate with other departments to understand the interdisciplinary nature of projects",
+          "competency": "Soft Skills",
+          "beginning_date": "12/1/2023",
+          "ending_date": "1/31/2024",
+          "status": "Created",
+          "resources": [],
+          "feedback_mechanism": "Feedback from collaborating departments and mentor",
+          "performance_metrics": "Successfully collaborate on at least one interdisciplinary project and receive positive feedback from collaborating departments."
+        }
+      ]
+    }
+  ],
+  "networking_opportunities": [],
+  "potential_challenges": [
+    {
+      "challenge": "Keeping up with rapidly evolving software architecture trends.",
+      "solution": "Regularly attend workshops and webinars, and subscribe to industry journals."
+    },
+    {
+      "challenge": "Balancing hands-on technical work with the theoretical study of systems engineering and software architecture.",
+      "solution": "Allocate specific days or time blocks for theoretical study and hands-on work. Use tools like Trello or Asana for time management."
+    },
+    {
+      "challenge": "Effective collaboration with other departments and understanding interdisciplinary project requirements.",
+      "solution": "Schedule regular inter-departmental meetings and workshops. Use collaboration tools like Slack or Microsoft Teams for effective communication."
+    },
+    {
+      "challenge": "Maintaining consistent communication skills improvement while engaging in technical tasks.",
+      "solution": "Practice public speaking, attend communication workshops, and seek feedback after presentations and meetings."
+    },
+    {
+      "challenge": "Staying updated with the latest in defense protocols and standards.",
+      "solution": "Join defense-focused forums, subscribe to defense journals, and attend defense industry conferences."
+    },
+    {
+      "challenge": "Ensuring practical application of learned skills in real-world scenarios.",
+      "solution": "Engage in live projects, participate in hackathons, and collaborate on open-source platforms."
+    }
+  ]
+}

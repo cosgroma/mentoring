@@ -1,0 +1,187 @@
+{
+    "mentor": "Mathew Cosgrove",
+    "mentee": "Nick Dulin",
+    "vision": "Nick aims to become a proficient expert in the fields of DevOps and modeling, with a strong grasp of embedded SW tools and development flows, enabling him to contribute effectively to projects and drive innovation.",
+    "mentoring_goals": [
+        {
+            "name": "DevOps Mastery",
+            "objective": "Acquire a comprehensive understanding of DevOps practices and tools.",
+            "primary_support_person": "Mathew Cosgrove",
+            "activities": [
+                {
+                    "name": "Attend a DevOps workshop or training",
+                    "beginning_date": "10/1/2023",
+                    "ending_date": "11/15/2023",
+                    "competency": "DevOps Practices",
+                    "status": "Planned",
+                    "resources": [
+                        {
+                            "name": "DevOps Workshop Materials",
+                            "link": "",
+                            "notes": "Ensure to review all workshop modules."
+                        }
+                    ],
+                    "feedback_mechanism": "Post-workshop assessment and discussion with mentor.",
+                    "performance_metrics": "Achieve at least 85% score in the post-workshop assessment."
+                },
+                {
+                    "name": "Implement a CI/CD pipeline for a sample project",
+                    "beginning_date": "11/16/2023",
+                    "ending_date": "1/15/2024",
+                    "competency": "Continuous Integration",
+                    "status": "Planned",
+                    "resources": [
+                        {
+                            "name": "CI/CD Tools Documentation",
+                            "link": "",
+                            "notes": "Focus on pipeline optimization techniques."
+                        }
+                    ],
+                    "feedback_mechanism": "Review of implemented pipeline with mentor and team feedback.",
+                    "performance_metrics": "Successfully deploy at least two applications using the implemented pipeline."
+                },
+                {
+                    "name": "Review and discuss case studies of successful DevOps implementations",
+                    "beginning_date": "1/16/2024",
+                    "ending_date": "2/28/2024",
+                    "competency": "DevOps Implementation",
+                    "status": "Planned",
+                    "resources": [
+                        {
+                            "name": "DevOps Case Studies",
+                            "link": "",
+                            "notes": "Analyze the challenges faced and solutions implemented."
+                        }
+                    ],
+                    "feedback_mechanism": "Group discussions and presentations on analyzed case studies.",
+                    "performance_metrics": "Present detailed insights from at least three different case studies."
+                }
+            ]
+        },
+        {
+            "name": "Modeling Expertise",
+            "objective": "Develop expertise in modeling techniques and tools relevant to the industry.",
+            "primary_support_person": "Mathew Cosgrove",
+            "activities": [
+                {
+                    "name": "Attend a course on advanced modeling techniques",
+                    "beginning_date": "3/1/2024",
+                    "ending_date": "4/15/2024",
+                    "competency": "Modeling Techniques",
+                    "status": "Planned",
+                    "resources": [
+                        {
+                            "name": "Advanced Modeling Course Materials",
+                            "link": "",
+                            "notes": "Focus on real-world applications of modeling techniques."
+                        }
+                    ],
+                    "feedback_mechanism": "Hands-on modeling assignments and feedback sessions with mentor.",
+                    "performance_metrics": "Successfully complete all course assignments with a grade of 'B' or higher."
+                },
+                {
+                    "name": "Work on a real-world modeling project under guidance",
+                    "beginning_date": "4/16/2024",
+                    "ending_date": "6/15/2024",
+                    "competency": "Practical Modeling",
+                    "status": "Planned",
+                    "resources": [
+                        {
+                            "name": "Modeling Project Documentation",
+                            "link": "",
+                            "notes": "Ensure to document all design decisions."
+                        }
+                    ],
+                    "feedback_mechanism": "Weekly project reviews and feedback sessions with mentor.",
+                    "performance_metrics": "Successfully design and implement a model that meets project requirements."
+                },
+                {
+                    "name": "Review and discuss various modeling tools and their applications",
+                    "beginning_date": "6/16/2024",
+                    "ending_date": "7/31/2024",
+                    "competency": "Modeling Tools",
+                    "status": "Planned",
+                    "resources": [
+                        {
+                            "name": "List of Popular Modeling Tools",
+                            "link": "",
+                            "notes": "Explore at least five different tools."
+                        }
+                    ],
+                    "feedback_mechanism": "Group discussions on pros and cons of each tool.",
+                    "performance_metrics": "Provide a detailed comparison report on the explored modeling tools."
+                }
+            ]
+        },
+        {
+            "name": "Embedded SW Tools & Development Flows",
+            "objective": "Familiarize with specific embedded SW tools and development flows to enhance software development capabilities.",
+            "primary_support_person": "Mathew Cosgrove",
+            "activities": [
+                {
+                    "name": "Familiarize with popular embedded SW development tools",
+                    "beginning_date": "8/1/2024",
+                    "ending_date": "9/15/2024",
+                    "competency": "SW Tools",
+                    "status": "Planned",
+                    "resources": [
+                        {
+                            "name": "List of Embedded SW Development Tools",
+                            "link": "",
+                            "notes": "Prioritize tools that are widely used in the industry."
+                        }
+                    ],
+                    "feedback_mechanism": "Hands-on sessions with mentor to explore each tool.",
+                    "performance_metrics": "Demonstrate proficiency in at least three different embedded SW tools."
+                },
+                {
+                    "name": "Implement a small project using an embedded SW tool",
+                    "beginning_date": "9/16/2024",
+                    "ending_date": "10/31/2024",
+                    "competency": "Practical Implementation",
+                    "status": "Planned",
+                    "resources": [
+                        {
+                            "name": "Embedded SW Tool Documentation",
+                            "link": "",
+                            "notes": "Ensure to follow best practices during implementation."
+                        }
+                    ],
+                    "feedback_mechanism": "Project review sessions with mentor and team feedback.",
+                    "performance_metrics": "Successfully implement a project that meets specified requirements using the chosen SW tool."
+                },
+                {
+                    "name": "Discuss and review best practices in embedded SW development flows",
+                    "beginning_date": "11/1/2024",
+                    "ending_date": "12/15/2024",
+                    "competency": "Development Flows",
+                    "status": "Planned",
+                    "resources": [
+                        {
+                            "name": "Embedded SW Development Best Practices",
+                            "link": "",
+                            "notes": "Focus on industry-accepted standards and practices."
+                        }
+                    ],
+                    "feedback_mechanism": "Group discussions and feedback sessions on best practices.",
+                    "performance_metrics": "Present a detailed report on best practices in embedded SW development flows."
+                }
+            ]
+        }
+    ],
+    "networking_opportunities": [],
+    "potential_challenges": [
+        {
+            "challenge": "Keeping up with the rapidly evolving DevOps tools and practices.",
+            "solution": "Regularly attend workshops, webinars, and industry conferences to stay updated."
+        },
+        {
+            "challenge": "Applying theoretical modeling techniques to real-world scenarios.",
+            "solution": "Work closely with the mentor and seek feedback on practical applications to bridge the gap between theory and practice."
+        },
+        {
+            "challenge": "Navigating the complexities of embedded software tools and development flows.",
+            "solution": "Collaborate with experienced developers and participate in hands-on sessions to gain practical insights."
+        }
+    ]
+}
